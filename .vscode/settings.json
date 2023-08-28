@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "w5300_config.h": "c",
+        "lcd.h": "c",
+        "main.h": "c",
+        "delay.h": "c",
+        "stdint.h": "c",
+        "stm32f4xx_hal.h": "c"
+    }
+}
